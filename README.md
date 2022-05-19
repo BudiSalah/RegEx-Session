@@ -4,6 +4,7 @@ The session was recorded from a zoom meeting. You can find the session materials
 
 ## Materials
 
+- [Session Examples](examples)
 - [Session video (Google Drive 265MB)](https://drive.google.com/drive/folders/1yGrJ-rIOhqnYeVtiPUGKCLBk-T8W16SD?usp=sharing)
 - [session-slides.pdf (80KB)](session-slides.pdf)
 
